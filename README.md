@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer;Always%20learning%20new%20things;Hard%20worker&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer;Always%20learning%20new%20Tech;Hard%20worker&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 👀 I’m interested in mobile development and improving my skills as a software engineer .
@@ -17,7 +17,6 @@
 
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/M_M3aTyy)
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed-abo-el-maaty-2b023322b/)
-
 
 
 ### 🛠 &nbsp;Tech Stack
