@@ -18,7 +18,7 @@
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed-abo-el-maaty-2b023322b/)
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
 ![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
