@@ -5,20 +5,22 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer;Always%20learning%20new%20things;Team%20worker&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer;Always%20learning%20new%20things;Hard%20worker&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 👀 I’m interested in mobile development and improving my skills as a software engineer .
 - 👨‍💻 As a learner , I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 I’m currently learning Building mobile apps using flutter framework .
-- 💞️ I’m looking to collaborate on learning flutter and dart and contribute on open source projects . 
+- 💻 I’m looking to collaborate on learning flutter and dart and contribute on open source projects . 
+
 - 📫 How to reach me:
 
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/M_M3aTyy)
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed-abo-el-maaty-2b023322b/)
 
 
-### 🛠 &nbsp;Tech 
+
+### 🛠 &nbsp;Tech Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
 ![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
