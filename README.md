@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Mohamed M3aTy's profile!
+  Welcome to M3aTy's github profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
