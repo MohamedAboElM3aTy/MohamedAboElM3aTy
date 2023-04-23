@@ -10,8 +10,8 @@
 
 - 👀 I’m interested in mobile development and improving my skills as a software engineer .
 - 👨‍💻 As a learner , I'm constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m currently learning Building apps by flutter framework .
-- 💞️ I’m looking to collaborate on learning flutter and dart and collaborate on open source projects . 
+- 🌱 I’m currently learning Building mobile apps using flutter framework .
+- 💞️ I’m looking to collaborate on learning flutter and dart and contribute on open source projects . 
 - 📫 How to reach me:
 
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/M_M3aTyy)
