@@ -13,11 +13,14 @@
 - 🌱 I’m currently learning Building mobile apps using Flutter framework.
 - 💻 I’m looking to collaborate on learning Flutter and Dart and contribute on open-source projects. 
 
-- 📫 How to reach me:
+<h4 align="left">📫 Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/M_M3aTyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="M_M3aTyy" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/mohamedaboelmaaty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Abo El Maaty" height="20" width="30" /></a>
+<a href="https://www.instagram.com/_m.m3aty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="M.m3aty" height="20" width="30" /></a>
+</p>
 
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed-abo-el-maaty-2b023322b/)
-  [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/M_M3aTyy?label=Follow%20me)](https://twitter.com/M_M3aTyy)
-
+##### iam@maaty.dev
 
 
 ### 🛠 &nbsp;Tech Stack
