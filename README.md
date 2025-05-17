@@ -1,17 +1,22 @@
-<h3 align="center">
-  Welcome to M3aTy's github profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm M3aTy <a href="https://github.com/MohamedAboElM3aTy">@MohamedAboElM3aTy</a> 🐦</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer;Always%20learning%20new%20Tech;Hard%20worker&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Mobile%20Engineer;Community%20Leader;Flutter%20%26%20Dart%20Enthusiast;Clean%20Code%20Advocate&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-- 👀 I’m interested in mobile development and improving my skills as a software engineer.
-- 👨‍💻 As a learner, I'm constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m currently learning Building mobile apps using Flutter framework.
-- 💻 I’m looking to collaborate on learning Flutter and Dart and contribute on open-source projects. 
+<p align="center">
+  <b>🚀 Senior Mobile Application Engineer crafting exceptional Flutter experiences</b>
+</p>
+
+#### I'm a Senior Mobile Application Engineer with 2+ years of specialized experience in Flutter development, currently working at [Nahdi Medical Co.](https://apple.co/42bKesk), the largest Medical & healthcare app (with 1+ million daily users) in KSA and UAE.
+
+#### In my current role, I lead performance optimization initiatives that have improved app launch time by 70% and reduced crash rates by 45%, while enhancing the user experience through improved UI/UX practices. I'm responsible for adding Beats to our daily customers, Implementing user friendly new features.
+
+#### As an active community leader, i lead [GDG 6 October](https://gdg.community.dev/gdg-6-october/) community.
+
+#### Additionally, I co-organizer the [Flutter Egypt](https://www.meetup.com/flutter-egypt/) and [Flutter Mena](https://fluttermena.com/).💙
+
 
 <h4 align="left">📫 Connect with me</h3>
 <p align="left">
