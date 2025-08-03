@@ -13,9 +13,9 @@
 
 #### In my current role, I lead performance optimization initiatives that have improved app launch time by 70% and reduced crash rates by 45%, while enhancing the user experience through improved UI/UX practices. I'm responsible for adding Beats to our daily customers, Implementing user friendly new features.
 
-#### As an active community leader, i lead [GDG 6 October](https://gdg.community.dev/gdg-6-october/) community.
+#### As an active community leader, I lead [GDG 6 October](https://gdg.community.dev/gdg-6-october/) community in Egypt.
 
-#### Additionally, I co-organizer the [Flutter Egypt](https://www.meetup.com/flutter-egypt/) and [Flutter Mena](https://fluttermena.com/).💙
+#### Additionally, I co-organizer the [Flutter Egypt](https://www.meetup.com/flutter-egypt/) and [Flutter Mena](https://fluttermena.com/) 💙
 
 
 <h4 align="left">📫 Connect with me</h3>
